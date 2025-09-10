@@ -88,10 +88,10 @@ cover:
     id: cover_01
     open_action:
       - switch.turn_on: cover_open_01_out01
-    open_duration: 17s
+    open_duration: 18s
     close_action:
       - switch.turn_on: cover_close_01_out02
-    close_duration: 17s
+    close_duration: 18s
     stop_action:
       - switch.turn_off: cover_open_01_out01
       - switch.turn_off: cover_close_01_out02
@@ -101,10 +101,10 @@ cover:
     id: cover_02
     open_action:
       - switch.turn_on: cover_open_02_out03
-    open_duration: 18s
+    open_duration: 20s
     close_action:
       - switch.turn_on: cover_close_02_out04
-    close_duration: 17s
+    close_duration: 19s
     stop_action:
       - switch.turn_off: cover_open_02_out03
       - switch.turn_off: cover_close_02_out04
@@ -114,10 +114,10 @@ cover:
     id: cover_03
     open_action:
       - switch.turn_on: cover_open_03_out05
-    open_duration: 22s
+    open_duration: 29s
     close_action:
       - switch.turn_on: cover_close_03_out06
-    close_duration: 20s
+    close_duration: 25s
     stop_action:
       - switch.turn_off: cover_open_03_out05
       - switch.turn_off: cover_close_03_out06
@@ -127,10 +127,10 @@ cover:
     id: cover_04
     open_action:
       - switch.turn_on: cover_open_04_out07
-    open_duration: 22s
+    open_duration: 29s
     close_action:
       - switch.turn_on: cover_close_04_out08
-    close_duration: 20s
+    close_duration: 25s
     stop_action:
       - switch.turn_off: cover_open_04_out07
       - switch.turn_off: cover_close_04_out08
@@ -140,10 +140,10 @@ cover:
     id: cover_05
     open_action:
       - switch.turn_on: cover_open_05_out09
-    open_duration: 22s
+    open_duration: 32s
     close_action:
       - switch.turn_on: cover_close_05_out10
-    close_duration: 20s
+    close_duration: 27s
     stop_action:
       - switch.turn_off: cover_open_05_out09
       - switch.turn_off: cover_close_05_out10
@@ -153,10 +153,10 @@ cover:
     id: cover_06
     open_action:
       - switch.turn_on: cover_open_06_out11
-    open_duration: 22s
+    open_duration: 33s
     close_action:
       - switch.turn_on: cover_close_06_out12
-    close_duration: 20s
+    close_duration: 28s
     stop_action:
       - switch.turn_off: cover_open_06_out11
       - switch.turn_off: cover_close_06_out12
@@ -166,10 +166,10 @@ cover:
     id: cover_07
     open_action:
       - switch.turn_on: cover_open_07_out13
-    open_duration: 22s
+    open_duration: 33s
     close_action:
       - switch.turn_on: cover_close_07_out14
-    close_duration: 20s
+    close_duration: 28s
     stop_action:
       - switch.turn_off: cover_open_07_out13
       - switch.turn_off: cover_close_07_out14
@@ -179,10 +179,10 @@ cover:
     id: cover_08
     open_action:
       - switch.turn_on: cover_open_08_out15
-    open_duration: 22s
+    open_duration: 33s
     close_action:
       - switch.turn_on: cover_close_08_out16
-    close_duration: 20s
+    close_duration: 28s
     stop_action:
       - switch.turn_off: cover_open_08_out15
       - switch.turn_off: cover_close_08_out16
@@ -192,10 +192,10 @@ cover:
     id: cover_09
     open_action:
       - switch.turn_on: cover_open_09_out17
-    open_duration: 22s
+    open_duration: 29s
     close_action:
       - switch.turn_on: cover_close_09_out18
-    close_duration: 20s
+    close_duration: 25s
     stop_action:
       - switch.turn_off: cover_open_09_out17
       - switch.turn_off: cover_close_09_out18
@@ -218,10 +218,10 @@ cover:
     id: cover_11
     open_action:
       - switch.turn_on: cover_open_11_out21
-    open_duration: 22s
+    open_duration: 29s
     close_action:
       - switch.turn_on: cover_close_11_out22
-    close_duration: 20s
+    close_duration: 25s
     stop_action:
       - switch.turn_off: cover_open_11_out21
       - switch.turn_off: cover_close_11_out22
@@ -231,10 +231,10 @@ cover:
     id: cover_12
     open_action:
       - switch.turn_on: cover_open_12_out23
-    open_duration: 22s
+    open_duration: 29s
     close_action:
       - switch.turn_on: cover_close_12_out24
-    close_duration: 20s
+    close_duration: 25s
     stop_action:
       - switch.turn_off: cover_open_12_out23
       - switch.turn_off: cover_close_12_out24
@@ -244,10 +244,10 @@ cover:
     id: cover_13
     open_action:
       - switch.turn_on: cover_open_13_out25
-    open_duration: 22s
+    open_duration: 29s
     close_action:
       - switch.turn_on: cover_close_13_out26
-    close_duration: 20s
+    close_duration: 25s
     stop_action:
       - switch.turn_off: cover_open_13_out25
       - switch.turn_off: cover_close_13_out26
