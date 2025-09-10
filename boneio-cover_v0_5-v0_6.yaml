@@ -28,12 +28,12 @@ ethernet:
   power_pin: GPIO16
 
 dashboard_import:
-  package_import_url: github://boneIO-eu/esphome/boneio-cover_v0_5-v0_6.yaml@latest
+  package_import_url: github://igorsiwek/Boneio-rolety/boneio-cover_v0_5-v0_6.yaml@latest
   import_full_config: true
 
 packages:
   internals_packages:
-    url: https://github.com/boneIO-eu/esphome
+    url: https://github.com/igorsiwek/Boneio-rolety
     ref: v1.7.1
     files: [
         'devices/buzzer.yaml',
